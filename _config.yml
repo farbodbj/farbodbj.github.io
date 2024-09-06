@@ -7,7 +7,7 @@ plugins:
   - jemoji
 
 permalink: /:year/:month/:day/:title/
-repository: git@github.com:farbodbj/farbodbj.github.io.git
+repository: farbodbj/farbodbj.github.io
 
 defaults:
   -
